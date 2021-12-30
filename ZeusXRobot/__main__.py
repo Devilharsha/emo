@@ -81,10 +81,12 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 ──『[NOBISUKI](https://telegra.ph/file/f1870a7c0b73bb6a5defc.jpg)』──
 
-*Hello User!!*
-𝐇𝐞𝐲 𝐈'𝐦 [๖ۣۜZΞUS༻](https://en.m.wikipedia.org/wiki/Zeus),👋
-𝐈 𝐀𝐦 𝐀 𝐆𝐫𝐞𝐞𝐤 𝐌𝐲𝐭𝐡𝐨𝐥𝐨𝐠𝐲 𝐆𝐨𝐝 
-𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐈 𝐖𝐢𝐥𝐥 𝐃𝐞𝐬𝐭𝐫𝐨𝐲 𝐄𝐯𝐢𝐥𝐬 𝐖𝐢𝐭𝐡 𝐌𝐲 𝐓𝐡𝐮𝐧𝐝𝐞𝐫...
+Hello! User,👋
+I am ✰Nobisuki✰
+➪ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴀᴅᴍɪɴ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴇxᴘʟᴏsɪᴠᴇ.
+┏━━━━━━━━━━━━━━━━━━━━━┓
+┃➪ ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ʜᴇʟᴘ ᴛᴏ ┃ᴇxᴘʟᴏʀᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ ᴀɴᴅ ᴍʏ ┃ғᴇᴀᴛᴜʀᴇs.
+┗━━━━━━━━━━━━━━━━━━━━━┛
 
 ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』"""
 STICKERS = (
@@ -95,11 +97,11 @@ STICKERS = (
 buttons = [
     [
         InlineKeyboardButton(
-                            text="☑️ SUBMIT GOD ZEUS ☑️",
-                            url="t.me/ZeusXRobot?startgroup=true"),
+                            text="☑️ SUBMIT GOD NOBI ☑️",
+                            url="t.me/Nobisukibot?startgroup=true"),
                     ],
                    [
-                       InlineKeyboardButton(text="🤖 Stats", callback_data="zeus_info"),
+                       InlineKeyboardButton(text="My Friend", url="t.me/vegetarobot"),
                        InlineKeyboardButton(text="📊 Network", url="t.me/PegasusXteam"),
                        InlineKeyboardButton(text="🔔 Logs", url="t.me/pegasusLogs"),
                      ],
@@ -108,7 +110,7 @@ buttons = [
                              text="👫 Freedom",
                              url=f"https://t.me/UnitedSupport"),
                        InlineKeyboardButton(
-                             text="⚡ ZeusUpdates",
+                             text="⚡ NobisukiUpdates",
                              url=f"https://t.me/{UPDATES_CHANNEL}"),
                      ],
                     [
