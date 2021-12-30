@@ -79,7 +79,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-──『[GOD OF THUNDER](https://telegra.ph/file/4c33a90f7df190fd81763.jpg)』──
+──『[NOBISUKI](https://telegra.ph/file/f1870a7c0b73bb6a5defc.jpg)』──
 
 *Hello User!!*
 𝐇𝐞𝐲 𝐈'𝐦 [๖ۣۜZΞUS༻](https://en.m.wikipedia.org/wiki/Zeus),👋
