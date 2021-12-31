@@ -114,7 +114,7 @@ buttons = [
                              url=f"https://t.me/{UPDATES_CHANNEL}"),
                      ],
                     [
-                    InlineKeyboardButton(text="🔐 Open commads 🔐", callback_data="help_back"
+                    InlineKeyboardButton(text="Help", callback_data="help_back"
          ),
     ],
 ] 
