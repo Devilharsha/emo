@@ -75,19 +75,19 @@ async def alive_function(answers):
     )
 
     msg = f"""
-**[Zeus 🖤](https://github.com/Ctzfamily/ZeusXRobot):**
+**[Nobisuki 🖤](https://github.com/godofanjal):**
 **MainBot:** `{bot_state}`
 **UserBot:** `Alive`
 **Python:** `3.9`
 **Pyrogram:** `{pyrover}`
 **Platform:** `{sys.platform}`
-**Profiles:** [BOT](t.me/ZeusXRobot) | [REPO](https://github.com/Ctzfamily/VegetaRobot)
+**Profiles:** [BOT](t.me/Nobisukibot) | [REPO](https://github.com/Ctzfamily/VegetaRobot)
 """
     answers.append(
         InlineQueryResultArticle(
             title="Alive",
             description="Check Bot's Stats",
-            thumb_url="https://telegra.ph/file/93203499260184ff876b5.jpg",
+            thumb_url="https://telegra.ph/file/f1870a7c0b73bb6a5defc.jpg",
             input_message_content=InputTextMessageContent(
                 msg, disable_web_page_preview=True
             ),
