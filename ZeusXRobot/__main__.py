@@ -90,8 +90,8 @@ I am ✰Nobisuki✰
 
 ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』"""
 STICKERS = (
-      "CAACAgUAAx0CRiLf0wACjHrrDcVgz6Ssk5wvA05NLDQACbgIAAv_H2FQTHfy_9X7rfSIE", #1 
-      "CAACAgUAAx0CRiLf0wACvWcdVwga5fnQJ0i7tD6nIgACsAQAAq042VQYQWM0ctfhfbyIE", #2
+      "CAACAgUAAx0CXss_8QABArcXYc6W7G3Jj4S-cYtgEmHAUKtft2IAAjIBAAL5GclV2twqO5RAQUcjBA", #1 
+      "CAACAgUAAx0CXss_8QABArcqYc6XNGE_S52_ph8cIne8vHNhLe0AAuwAA4SE2FU9BagaPAABSr0jBA", #2
 )
 
 buttons = [
