@@ -90,8 +90,8 @@ I am ✰Nobisuki✰
 
 ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』"""
 STICKERS = (
-      "CAACAgUAAx0CRiLf0wACvWBhmnKjHrrDcVgz6Ssk5wvA05NLDQACbgIAAv_H2FQTHfy_9X7rfSIE", #1 
-      "CAACAgUAAx0CRiLf0wACvWZhmnOJLucdVwga5fnQJ0i7tD6nIgACsAQAAq042VQYQWM0cthfbyIE", #2
+      "CAACAgUAAx0CRiLf0wACjHrrDcVgz6Ssk5wvA05NLDQACbgIAAv_H2FQTHfy_9X7rfSIE", #1 
+      "CAACAgUAAx0CRiLf0wACvWcdVwga5fnQJ0i7tD6nIgACsAQAAq042VQYQWM0ctfhfbyIE", #2
 )
 
 buttons = [
@@ -114,7 +114,7 @@ buttons = [
                              url=f"https://t.me/{UPDATES_CHANNEL}"),
                      ],
                     [
-                    InlineKeyboardButton(text="Help", callback_data="help_back"
+                    InlineKeyboardButton(text=" HELP ", callback_data="help_back"
          ),
     ],
 ] 
