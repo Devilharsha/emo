@@ -50,11 +50,11 @@ class AioHttp:
 
 __mod_name__ = "♦️Inline"
 __help__ = f"""
-INLINE BOT SERVICE OF @ZeuaXRobot
+INLINE BOT SERVICE OF @Nobisukibot
 I'm more efficient when added as group admin. By the way these commands can be used by anyone in a group via inline.
 
 ──「 Syntax 」──
-   @ZeusXRobot [command] [query]
+   @Nobisukibot [command] [query]
 
 ──「 Commands Available 」──
 ☫ alive - Check Bot's Stats.
@@ -94,10 +94,10 @@ I'm more efficient when added as group admin. By the way these commands can be u
 
 __MODULE__ = "🔷Inline"
 __HELP__ = f"""
- ==>> **INLINE BOT SERVICE OF @ZeusXRobot** <<==
+ ==>> **INLINE BOT SERVICE OF @Nobisukibot** <<==
 `I'm more efficient when added as group admin. By the way these commands can be used by anyone in a group via inline.`
    >> Syntax <<
-@ZeusXRobot [command] [query]
+@Nobisukibot [command] [query]
    >> Commands Available <<
 ☫ **alive** - __Check Bot's Stats.__
 ☫ **yt [query]** - __Youtube Search.__
