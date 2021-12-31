@@ -89,15 +89,10 @@ I am ✰Nobisuki✰
 ┗━━━━━━━━━━━━━━━━━━━━━┛
 
 ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』"""
-STICKERS = (
-      "CAACAgUAAx0CRiLf0wACvWBhmnKjHrrDcVgz6Ssk5wvA05NLDQACbgIAAv_H2FQTHfy_9X7rfSIE", #1
-      "CAACAgUAAx0CRiLf0wACvWZhmnOJLucdVwga5fnQJ0i7tD6nIgACsAQAAq042VQYQWM0cthfbyIE", #2
-)
-
 buttons = [
     [
         InlineKeyboardButton(
-                            text="☑️ SUBMIT GOD NOBI ☑️",
+                            text="ADD ME",
                             url="t.me/Nobisukibot?startgroup=true"),
                     ],
                    [
@@ -110,7 +105,7 @@ buttons = [
                              text="👫 Freedom",
                              url=f"https://t.me/UnitedSupport"),
                        InlineKeyboardButton(
-                             text="⚡ NobisukiUpdates",
+                             text="Updates",
                              url=f"https://t.me/{UPDATES_CHANNEL}"),
                      ],
                     [
