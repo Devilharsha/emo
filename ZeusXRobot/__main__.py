@@ -127,7 +127,7 @@ Helpful commands:
 - /help: Sends this message; I'll tell you more about myself!
 - /donate: Gives you info on how to support me and my creator.
 If you want to report bugs or have any questions on how to use me then feel free to reach out: @UnitedSupport.
-All commands can be used with the following: *(/),(!),(?),(.),(~)*!
+All commands can be used with the following: *(/),(!),(?),(.),(~)*[!](https://telegra.ph/file/f1870a7c0b73bb6a5defc.jpg)
 List of all the Modules:
 """.format(
     dispatcher.bot.first_name,
@@ -135,7 +135,7 @@ List of all the Modules:
 )
 
 HELP_MSG = "Click the button below to get help manu in your pm."
-DONATE_STRING = """t.me/UnitedSupport"
+DONATE_STRING = """t.me/UnitedSupport"""
 HELP_IMG= "https://telegra.ph/file/f1870a7c0b73bb6a5defc.jpg"
 
 
