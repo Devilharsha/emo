@@ -21,7 +21,7 @@ class Config(object):
     OWNER_ID = 1891633746 # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "cRaZyBoY_420"
     SUPPORT_CHAT = 'UnitedSupport'  #Your own group for support, do not add the @
-    UPDATES_CHANNEL = 'ZeusUpdates' #Your own channel for Updates of bot, Do not add @
+    UPDATES_CHANNEL = 'PegasusUpdates' #Your own channel for Updates of bot, Do not add @
     JOIN_LOGGER = -1001574034400  #Prints any new group the bot is added to, prints just the name and ID.
     REM_BG_API_KEY = "http://removebg.com"
     TEMP_DOWNLOAD_DIRECTORY = ""
