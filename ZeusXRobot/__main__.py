@@ -97,7 +97,7 @@ STICKERS = (
 buttons = [
     [
         InlineKeyboardButton(
-                            text="ADD ME TO YOUR GROUP",
+                            text="ADD NOBISUKI TO YOUR GROUP",
                             url="t.me/Nobisukibot?startgroup=true"),
                     ],
                    [
