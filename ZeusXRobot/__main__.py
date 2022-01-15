@@ -79,7 +79,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-──『[NOBISUKI](https://telegra.ph/file/f1870a7c0b73bb6a5defc.jpg)』──
+──『[NOBISUKI](https://telegra.ph/file/b14e6b32ea0bd80177f71.jpg)』──
 
 Hello! User,👋
 I am ✰Nobisuki✰
@@ -90,8 +90,8 @@ I am ✰Nobisuki✰
 
 ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』"""
 STICKERS = (
-      "CAACAgUAAx0CXss_8QABArcXYc6W7G3Jj4S-cYtgEmHAUKtft2IAAjIBAAL5GclV2twqO5RAQUcjBA", #1 
-      "CAACAgUAAx0CXss_8QABArcqYc6XNGE_S52_ph8cIne8vHNhLe0AAuwAA4SE2FU9BagaPAABSr0jBA", #2
+      "CAACAgUAAxkBAAIZQmHi1OxXscpnUFNiBPqQ8mH0FMPiAAK-AQAC5qnJVfpWZeyctiguIwQ", #1 
+      "CAACAgUAAxkBAAIZRGHi1RplTJ76mbK8_hz9pSjXTE_aAAIYAQACT3bRVSlYnlVKukpdIwQ", #2
 )
 
 buttons = [
@@ -136,7 +136,7 @@ List of all the Modules:
 
 HELP_MSG = "Click the button below to get help manu in your pm."
 DONATE_STRING = """t.me/UnitedSupport"""
-HELP_IMG= "https://telegra.ph/file/f1870a7c0b73bb6a5defc.jpg"
+HELP_IMG= "https://telegra.ph/file/04b5887ceb37e7df8b705.jpg"
 
 
 IMPORTED = {}
@@ -338,7 +338,7 @@ def help_button(update, context):
         if mod_match:
             module = mod_match.group(1)
             text = (
-                "*Powered By @PegasusXteam*\n *Module Name:*`{}`\n".format(
+                "*Module By Nobisuki*\n *Module Name:*`{}`\n".format(
                     HELPABLE[module].__mod_name__
                 )
                 + HELPABLE[module].__help__
