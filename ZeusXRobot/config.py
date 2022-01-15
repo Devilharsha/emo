@@ -19,13 +19,13 @@ class Config(object):
     API_HASH = "2d27353eb16c951fe96fc2b97f2b47d0"
     TOKEN = "2024537660:AAFxio3kRWsQ7ZkjTg8xm8BNnbHVZodAIvI"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 1891633746 # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "cRaZyBoY_420"
+    OWNER_USERNAME = "attitudeking420"
     SUPPORT_CHAT = 'UnitedSupport'  #Your own group for support, do not add the @
     UPDATES_CHANNEL = 'PegasusUpdates' #Your own channel for Updates of bot, Do not add @
-    JOIN_LOGGER = -1001574034400  #Prints any new group the bot is added to, prints just the name and ID.
+    JOIN_LOGGER = -1001666190681  #Prints any new group the bot is added to, prints just the name and ID.
     REM_BG_API_KEY = "http://removebg.com"
     TEMP_DOWNLOAD_DIRECTORY = ""
-    EVENT_LOGS = -1001574034400  #Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
+    EVENT_LOGS = -1001666190681  #Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
     SQLALCHEMY_DATABASE_URI = 'postgres://waumvqwb:WCE7AAwcaLwHpUI9VPeA78rMAWPv5IyT@abul.db.elephantsql.com/waumvqwb' #do you hub your old heroku app database_URL then put here, most use 25days ago sql
     LOAD = [] #try to kang this db ur big mothersfuckers i know your noob so only kanging my db
     NO_LOAD = ['rss', 'cleaner', 'connection', 'math']
