@@ -79,7 +79,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-──『[NOBISUKI](https://telegra.ph/file/b14e6b32ea0bd80177f71.jpg)』──
+──『[NOBISUKI](https://telegra.ph/file/443870c48d9f560b85e54.jpg)』──
 
 Hello! User,👋
 I am ✰Nobisuki✰
@@ -338,7 +338,7 @@ def help_button(update, context):
         if mod_match:
             module = mod_match.group(1)
             text = (
-                "*Module By Nobisuki*\n *Module Name:*`{}`\n".format(
+                "*Module Name:*`{}`\n".format(
                     HELPABLE[module].__mod_name__
                 )
                 + HELPABLE[module].__help__
