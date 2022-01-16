@@ -79,7 +79,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-──『[NOBISUKI](https://telegra.ph/file/443870c48d9f560b85e54.jpg)』──
+──『NOBISUKI』──
 
 Hello! User,👋
 I am ✰Nobisuki✰
