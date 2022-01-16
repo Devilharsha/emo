@@ -91,7 +91,7 @@ I am ✰Nobisuki✰
 ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』"""
 STICKERS = (
       "CAACAgUAAxkBAAIZQmHi1OxXscpnUFNiBPqQ8mH0FMPiAAK-AQAC5qnJVfpWZeyctiguIwQ", #1 
-      "CAACAgUAAxkBAAIZRGHi1RplTJ76mbK8_hz9pSjXTE_aAAIYAQACT3bRVSlYnlVKukpdIwQ", #2
+      "CAACAgUAAxkBAAIZQmHi1OxXscpnUFNiBPqQ8mH0FMPiAAK-AQAC5qnJVfpWZeyctiguIwQ", #2
 )
 
 buttons = [
