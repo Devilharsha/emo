@@ -17,7 +17,7 @@ class Config(object):
 
     API_ID = 12766057 # integer value, dont use ""
     API_HASH = "2d27353eb16c951fe96fc2b97f2b47d0"
-    TOKEN = "2024537660:AAFxio3kRWsQ7ZkjTg8xm8BNnbHVZodAIvI"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    TOKEN = "2024537660:AAGNtxMPTUr8SXP4bM6M8UqtSmQP_IY-GqM"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 1891633746 # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "attitudeking420"
     SUPPORT_CHAT = 'UnitedSupport'  #Your own group for support, do not add the @
@@ -35,7 +35,7 @@ class Config(object):
     SPAMWATCH_API = "yanOAsklE5nhYnILw7M~dHLnRazZQcPXfo818_UhkvEIA6yLD4cmYH1PkM1v7SM3"  # go to support.spamwat.ch to get key
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
     BOT_USERNAME = "Nobisukibot"
-    BOT_ID = "2116046406"
+    BOT_ID = "1891633746"
     
     DRAGONS = get_user_list('elevated_users.json', 'sudos')
 
