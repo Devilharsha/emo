@@ -20,7 +20,7 @@ class Config(object):
     TOKEN = "2024537660:AAGNtxMPTUr8SXP4bM6M8UqtSmQP_IY-GqM"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 1891633746 # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "attitudeking420"
-    SUPPORT_CHAT = 'NobisukiSupport'  #Your own group for support, do not add the @
+    SUPPORT_CHAT = 'UnitedSupport'  #Your own group for support, do not add the @
     UPDATES_CHANNEL = 'PegasusUpdates' #Your own channel for Updates of bot, Do not add @
     JOIN_LOGGER = -1001666190681  #Prints any new group the bot is added to, prints just the name and ID.
     REM_BG_API_KEY = "http://removebg.com"
