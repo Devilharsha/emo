@@ -106,7 +106,7 @@ buttons = [
                     [                  
                        InlineKeyboardButton(
                              text="Support",
-                             url=f"https://t.me/NobisukibotSupport"),
+                             url=f"https://t.me/NobisukiSupport"),
                        InlineKeyboardButton(
                              text="Updates",
                              url=f"https://t.me/{UPDATES_CHANNEL}"),
