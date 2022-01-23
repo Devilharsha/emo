@@ -79,7 +79,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hello I'm ℕ𝕠𝕓𝕚𝕤𝕦𝕜𝕚 ,
+Hello I'm Doraemon,
 
 ༒︎ I ᴀᴍ ᴍᴜʟᴛɪ ᴛᴀʟᴇɴᴛᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ᴏsᴍ ғᴇᴀᴛᴜʀᴇ
 
@@ -96,18 +96,18 @@ STICKERS = (
 buttons = [
     [
         InlineKeyboardButton(
-                            text="ADD NOBISUKI TO YOUR GROUP",
+                            text="ADD Doraemon TO YOUR GROUP",
                             url="t.me/Nobisukibot?startgroup=true"),
                     ],
                    [
-                       InlineKeyboardButton(text="My Friend", url="t.me/vegetarobot"),
+                       InlineKeyboardButton(text="My Friend", url="t.me/SetokaibaRobot"),
                        InlineKeyboardButton(text="📊 Network", url="t.me/PegasusXteam"),
                        InlineKeyboardButton(text="🔔 Logs", url="t.me/pegasusLogs"),
                      ],
                     [                  
                        InlineKeyboardButton(
                              text="Support",
-                             url=f"https://t.me/NobisukiSupport"),
+                             url=f"https://t.me/UnitedSupport"),
                        InlineKeyboardButton(
                              text="Updates",
                              url=f"https://t.me/{UPDATES_CHANNEL}"),
