@@ -1,5 +1,5 @@
 {
-       "name": "Zeus",
+       "name": "Doraemon",
       "description": "An Anime themed Telegram group management bot.",
       "logo": "https://telegra.ph/file/ba1a1b1bfa6007af5946e.jpg",
       "keywords": [
@@ -9,7 +9,7 @@
          "manager",
          "Zeus"
       ],   
-   "repository": "https://github.com/ctzfamily/ZeusXRobot",
+   "repository": "https://github.com/Devilharsha/Nobisukibot_main",
    "addons": [
       {
          "options": {
