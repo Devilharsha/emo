@@ -15,13 +15,13 @@ class Config(object):
     # REQUIRED
     #Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = 12766057 # integer value, dont use ""
-    API_HASH = "2d27353eb16c951fe96fc2b97f2b47d0"
-    TOKEN = "2024537660:AAGNtxMPTUr8SXP4bM6M8UqtSmQP_IY-GqM"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 1891633746 # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "attitudeking420"
-    SUPPORT_CHAT = 'NobisukiSupport'  #Your own group for support, do not add the @
-    UPDATES_CHANNEL = 'PegasusUpdates' #Your own channel for Updates of bot, Do not add @
+    API_ID = "7931165# integer value, dont use ""
+    API_HASH = "5a2e46d1e6deb1456c75aa743bc8e0e6"
+    TOKEN = "5218971249:AAG2cuzziyWLsEWGcqOhKZwBpwkYGmeF41c"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    OWNER_ID = 1615607413 # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "harshahero"
+    SUPPORT_CHAT = 'sctbotssupport'  #Your own group for support, do not add the @
+    UPDATES_CHANNEL = 'sctbots' #Your own channel for Updates of bot, Do not add @
     JOIN_LOGGER = -1001666190681  #Prints any new group the bot is added to, prints just the name and ID.
     REM_BG_API_KEY = "http://removebg.com"
     TEMP_DOWNLOAD_DIRECTORY = ""
@@ -34,7 +34,7 @@ class Config(object):
     URL = None
     SPAMWATCH_API = "yanOAsklE5nhYnILw7M~dHLnRazZQcPXfo818_UhkvEIA6yLD4cmYH1PkM1v7SM3"  # go to support.spamwat.ch to get key
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
-    BOT_USERNAME = "Nobisukibot"
+    BOT_USERNAME = "super_doraemon_Robot"
     BOT_ID = "1891633746"
     
     DRAGONS = get_user_list('elevated_users.json', 'sudos')
