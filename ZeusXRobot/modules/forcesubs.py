@@ -10,9 +10,9 @@ from pyrogram.errors.exceptions.bad_request_400 import (
 )
 from pyrogram.types import ChatPermissions, InlineKeyboardButton, InlineKeyboardMarkup
 
-from PrimeMega import DRAGONS as SUDO_USERS
-from PrimeMega import pbot
-from PrimeMega.modules.sql import forceSubscribe_sql as sql
+from ZeusXRobot import DRAGONS as SUDO_USERS
+from ZeusXRobot import pbot
+from ZeusXRobot.modules.sql import forceSubscribe_sql as sql
 
 logging.basicConfig(level=logging.INFO)
 
